@@ -4,6 +4,8 @@
 
 - You will get all types of jokes.
 
+- using Axios library HTTP API 
+
 
 
 #To Build this project I used HTML, CSS and JavaScript.
